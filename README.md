@@ -20,4 +20,4 @@ If you’re interested in collaborating or just want to say hi, feel free to rea
 
 
 
-I use **VIM** btw ^^
+I use **NeoVIM** btw
