@@ -17,7 +17,3 @@ At the moment, I’m diving into **three.js** for my final project at 42, called
 
 ## 🔗 Connect With Me
 If you’re interested in collaborating or just want to say hi, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sonam-crumiere/). I’m always open to connecting with fellow developers and creators!
-
-
-
-I use **NeoVIM** btw
