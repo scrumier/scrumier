@@ -5,7 +5,7 @@ Hey there! I'm **Sonam** (aka @scrumier), a passionate software developer and st
 
 ## 🛠 Skills & Notable Projects
 - **Languages**: C/C++ — I focus on performance and system-level programming to push the boundaries of efficiency.
-- **Tools**: **Neovim**, **Git**, and **MacOS/Linux** are my go-tos for a smooth development experience.
+- **Tools**: **VScode**, **Git**, and **MacOS/Linux** are my go-tos for a smooth development experience.
 - **Projects**:
   - [**Cub3D**](https://github.com/scrumier/cub3d): A fun 3D graphics project inspired by classic games.
   - [**Minishell**](https://github.com/scrumier/minishell): A custom Unix shell with core shell functionalities.
