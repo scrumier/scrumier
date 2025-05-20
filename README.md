@@ -12,8 +12,5 @@ Hey there! I'm **Sonam** (aka @scrumier), a passionate software developer and st
   - [**ft_IRC**](https://github.com/scrumier/ft_irc): An IRC (Internet Relay Chat) server developed in C++.
   - [**Philosophers**](https://github.com/scrumier/philosophers): A concurrency challenge simulating the dining philosophers problem.
 
-## 🌱 What I'm Learning
-At the moment, I’m diving into **three.js** for my final project at 42, called **ft_transcendence**. It’s an exciting blend of 3D graphics and modern web tech that’s pushing me to learn and experiment.
-
 ## 🔗 Connect With Me
 If you’re interested in collaborating or just want to say hi, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sonam-crumiere/). I’m always open to connecting with fellow developers and creators!
