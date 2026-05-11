@@ -1,6 +1,6 @@
 # Sonam Crumiere
 
-Software developer, 42 Paris graduate.
+Software developer, 42 Lyon.
 
 I build full-stack applications and AI-powered tools. My recent work focuses on applying language models to practical business problems: document search, anomaly detection, contract analysis.
 
