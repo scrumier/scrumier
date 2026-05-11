@@ -1,16 +1,37 @@
+# Sonam Crumiere
 
-# Welcome to My GitHub Profile! 👋
+Software developer, 42 Paris graduate.
 
-Hey there! I'm **Sonam** (aka @scrumier), a passionate software developer and student at **42 Lyon**. I’m deeply interested in low-level programming, especially with **C** and **C++**, and love working on high-performance, system-level applications. 
+I build full-stack applications and AI-powered tools. My recent work focuses on applying language models to practical business problems: document search, anomaly detection, contract analysis.
 
-## 🛠 Skills & Notable Projects
-- **Languages**: C/C++ — I focus on performance and system-level programming to push the boundaries of efficiency.
-- **Tools**: **VScode**, **Git**, and **MacOS/Linux** are my go-tos for a smooth development experience.
-- **Projects**:
-  - [**Cub3D**](https://github.com/scrumier/cub3d): A fun 3D graphics project inspired by classic games.
-  - [**Minishell**](https://github.com/scrumier/minishell): A custom Unix shell with core shell functionalities.
-  - [**ft_IRC**](https://github.com/scrumier/ft_irc): An IRC (Internet Relay Chat) server developed in C++.
-  - [**Philosophers**](https://github.com/scrumier/philosophers): A concurrency challenge simulating the dining philosophers problem.
+## Skills
 
-## 🔗 Connect With Me
-If you’re interested in collaborating or just want to say hi, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sonam-crumiere/). I’m always open to connecting with fellow developers and creators!
+**Languages** — C, C++, Python, Rust, JavaScript
+
+**Frontend** — React, Three.js
+
+**Backend** — Django, Flask, Node.js
+
+**Infrastructure** — Docker, Nginx, PostgreSQL, Redis
+
+**AI / ML** — RAG pipelines, vector databases, LLM integration (Claude, OpenRouter), embeddings, scikit-learn
+
+## Projects
+
+**[samse-rag](https://github.com/scrumier/samse-rag)** — RAG chatbot for internal PDF documents. Flask + ChromaDB + Claude. Built in 2 days for a 98-document corpus.
+
+**[samse-expense](https://github.com/scrumier/samse-expense)** — Expense anomaly detection combining rule-based checks and Isolation Forest. Generates an HTML report with plain-language explanations.
+
+**[samse-contracts](https://github.com/scrumier/samse-contracts)** — Automated extraction of key clauses from supplier contracts. Outputs a structured report with flagged risk items.
+
+**[ft_transcendence](https://github.com/scrumier/ft_transcendence)** — Multiplayer gaming platform (Pong + Tetris in 3D). React, Three.js, Django, WebSockets, PostgreSQL, Docker. Full auth with OAuth2 and 2FA. Final project at 42.
+
+**[cold-wallet](https://github.com/scrumier/cold-wallet)** — Air-gapped crypto wallet in Rust. Signs transactions offline, communicates only via QR codes. Educational project.
+
+## Currently
+
+Exploring AI applied to business tooling: how to make LLMs useful in real operational contexts, without overengineering.
+
+## Contact
+
+[linkedin.com/in/sonam-crumiere](https://www.linkedin.com/in/sonam-crumiere) — sonam.crumiere@gmail.com
