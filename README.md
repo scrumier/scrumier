@@ -18,11 +18,11 @@ I build full-stack applications and AI-powered tools. My recent work focuses on 
 
 ## Projects
 
-**[samse-rag](https://github.com/scrumier/samse-rag)** — RAG chatbot for internal PDF documents. Flask + ChromaDB + Claude. Built in 2 days for a 98-document corpus.
+**[pdf-rag](https://github.com/scrumier/pdf-rag)** — RAG chatbot for internal PDF documents. Flask + ChromaDB + Claude. Built in 2 days for a 98-document corpus.
 
-**[samse-expense](https://github.com/scrumier/samse-expense)** — Expense anomaly detection combining rule-based checks and Isolation Forest. Generates an HTML report with plain-language explanations.
+**[expense-analyzer](https://github.com/scrumier/expense-analyzer)** — Expense anomaly detection combining rule-based checks and Isolation Forest. Generates an HTML report with plain-language explanations.
 
-**[samse-contracts](https://github.com/scrumier/samse-contracts)** — Automated extraction of key clauses from supplier contracts. Outputs a structured report with flagged risk items.
+**[contract-analyzer](https://github.com/scrumier/contract-analyzer)** — Automated extraction of key clauses from supplier contracts. Outputs a structured report with flagged risk items.
 
 **[ft_transcendence](https://github.com/scrumier/ft_transcendence)** — Multiplayer gaming platform (Pong + Tetris in 3D). React, Three.js, Django, WebSockets, PostgreSQL, Docker. Full auth with OAuth2 and 2FA. Final project at 42.
 
