@@ -6,11 +6,11 @@ I build full-stack applications and AI-powered tools. My recent work focuses on 
 
 ## Skills
 
-**Languages** — C, C++, Python, Rust, JavaScript
+**Languages** — C, C++, Python, JavaScript
 
 **Frontend** — React, Three.js
 
-**Backend** — Django, Flask, Node.js
+**Backend** — Django, Node.js
 
 **Infrastructure** — Docker, Nginx, PostgreSQL, Redis
 
