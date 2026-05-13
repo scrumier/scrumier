@@ -34,4 +34,4 @@ Exploring AI applied to business tooling: how to make LLMs useful in real operat
 
 ## Contact
 
-[linkedin.com/in/sonam-crumiere](https://www.linkedin.com/in/sonam-crumiere) — sonam.crumiere@gmail.com
+[linkedin.com/in/sonam-crumiere](https://www.linkedin.com/in/sonam-crumiere) — bonjour@sonam.me
