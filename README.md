@@ -1,37 +1,39 @@
-# Sonam Crumiere
+# Sonam Crumière
 
-Software developer, 42 Lyon.
+So I do automation.
 
-I build full-stack applications and AI-powered tools. My recent work focuses on applying language models to practical business problems: document search, anomaly detection, contract analysis.
+If a task takes you time and bores you, it can probably be removed.
 
-## Skills
+Right now I'm doing AI automation at **Schneider Electric**, where I built a tool that saves a PhD candidate years of digging through documents. The rest of the time I do it for businesses.
 
-**Languages** — C, C++, Python, JavaScript
+## Drop these into your own workflow
 
-**Frontend** — React, Three.js
+Clone it, ask an LLM to configure it for you.
 
-**Backend** — Django, Node.js
+> **Problem:** I lose time digging through files to find one piece of information.
+> **Solution:** **[pdf-rag](https://github.com/scrumier/pdf-rag)**. Ask in plain language, get the answer plus the source document.
 
-**Infrastructure** — Docker, Nginx, PostgreSQL, Redis
+> **Problem:** Someone here retypes supplier invoices into a spreadsheet every week.
+> **Solution:** **[invoice-processor](https://github.com/scrumier/invoice-processor)**. Drop the PDF in a folder, the row writes itself.
 
-**AI / ML** — RAG pipelines, vector databases, LLM integration (Claude, OpenRouter), embeddings, scikit-learn
+> **Problem:** I never actually read the 40-page supplier contracts.
+> **Solution:** **[contract-analyzer](https://github.com/scrumier/contract-analyzer)**. Dates, amounts, penalties, termination terms, risky clauses flagged.
 
-## Projects
+> **Problem:** At month-end I scroll the expense sheet hoping something looks wrong.
+> **Solution:** **[expense-analyzer](https://github.com/scrumier/expense-analyzer)**. Flags the suspicious lines and tells you why.
 
-**[pdf-rag](https://github.com/scrumier/pdf-rag)** — RAG chatbot for internal PDF documents. Flask + ChromaDB + Claude. Built in 2 days for a 98-document corpus.
+## Proof I can code, security included
 
-**[expense-analyzer](https://github.com/scrumier/expense-analyzer)** — Expense anomaly detection combining rule-based checks and Isolation Forest. Generates an HTML report with plain-language explanations.
+**[ft_transcendence](https://github.com/scrumier/ft_transcendence-prod)**
+A 3D world you walk around to launch Pong, Tetris and Pacman off working retro hardware. Team project, 11 months, graded 116/100.
 
-**[contract-analyzer](https://github.com/scrumier/contract-analyzer)** — Automated extraction of key clauses from supplier contracts. Outputs a structured report with flagged risk items.
+**[cold-wallet](https://github.com/scrumier/cold-wallet)**
+Air-gapped crypto wallet in Rust. Signs offline, talks only through QR codes. The private key never touches a networked machine.
 
-**[ft_transcendence](https://github.com/scrumier/ft_transcendence)** — Multiplayer gaming platform (Pong + Tetris in 3D). React, Three.js, Django, WebSockets, PostgreSQL, Docker. Full auth with OAuth2 and 2FA. Final project at 42.
+## Stack
 
-**[cold-wallet](https://github.com/scrumier/cold-wallet)** — Air-gapped crypto wallet in Rust. Signs transactions offline, communicates only via QR codes. Educational project.
+Python, C, C++, JavaScript, Rust · LLMs (Claude), RAG, embeddings, vector DBs, scikit-learn · Flask, Django, React, Three.js · Docker, Nginx, PostgreSQL, Redis
 
-## Currently
+## Want it done for you?
 
-Exploring AI applied to business tooling: how to make LLMs useful in real operational contexts, without overengineering.
-
-## Contact
-
-[linkedin.com/in/sonam-crumiere](https://www.linkedin.com/in/sonam-crumiere) — bonjour@sonam.me
+[LinkedIn](https://www.linkedin.com/in/sonam-crumiere) · [sonam.me](https://sonam.me) · bonjour@sonam.me
