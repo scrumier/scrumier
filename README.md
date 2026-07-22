@@ -10,6 +10,8 @@ Right now I'm doing AI automation at **Schneider Electric**, where I built a too
 
 Clone it, ask an LLM to configure it for you.
 
+---
+
 **Problem:** I lose time digging through files to find one piece of information.<br>
 **Solution:** **[pdf-rag](https://github.com/scrumier/pdf-rag)**. Ask in plain language, get the answer plus the source document.
 
@@ -27,6 +29,8 @@ Clone it, ask an LLM to configure it for you.
 
 **Problem:** At month-end I scroll the expense sheet hoping something looks wrong.<br>
 **Solution:** **[expense-analyzer](https://github.com/scrumier/expense-analyzer)**. Flags the suspicious lines and tells you why.
+
+---
 
 ## Proof I can code, security included
 
