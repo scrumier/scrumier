@@ -10,25 +10,23 @@ Right now I'm doing AI automation at **Schneider Electric**, where I built a too
 
 Clone it, ask an LLM to configure it for you.
 
-### [pdf-rag](https://github.com/scrumier/pdf-rag)
-
 **Problem:** I lose time digging through files to find one piece of information.<br>
-**Solution:** Ask in plain language, get the answer plus the source document.
+**Solution:** **[pdf-rag](https://github.com/scrumier/pdf-rag)**. Ask in plain language, get the answer plus the source document.
 
-### [invoice-processor](https://github.com/scrumier/invoice-processor)
+---
 
 **Problem:** Someone here retypes supplier invoices into a spreadsheet every week.<br>
-**Solution:** Drop the PDF in a folder, the row writes itself.
+**Solution:** **[invoice-processor](https://github.com/scrumier/invoice-processor)**. Drop the PDF in a folder, the row writes itself.
 
-### [contract-analyzer](https://github.com/scrumier/contract-analyzer)
+---
 
 **Problem:** I never actually read the 40-page supplier contracts.<br>
-**Solution:** Dates, amounts, penalties, termination terms, risky clauses flagged.
+**Solution:** **[contract-analyzer](https://github.com/scrumier/contract-analyzer)**. Dates, amounts, penalties, termination terms, risky clauses flagged.
 
-### [expense-analyzer](https://github.com/scrumier/expense-analyzer)
+---
 
 **Problem:** At month-end I scroll the expense sheet hoping something looks wrong.<br>
-**Solution:** Flags the suspicious lines and tells you why.
+**Solution:** **[expense-analyzer](https://github.com/scrumier/expense-analyzer)**. Flags the suspicious lines and tells you why.
 
 ## Proof I can code, security included
 
