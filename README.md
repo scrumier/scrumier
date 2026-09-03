@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner/banner-dark.png">
-  <img alt="Sonam Crumière. Your files don’t know what your teams know. Agents, corpora, rules, Grenoble." src="banner/banner-light.png">
-</picture>
-
 # Sonam Crumière
 
 I build the systems that go and get that knowledge where it actually lives, from
